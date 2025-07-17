@@ -7,7 +7,7 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficient in <strong>React</strong> and <strong>Python Flask</strong>&nbsp;✔</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fluent in  <strong>English</strong>&nbsp;✔</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check my links below&nbsp;👇</p>
-  📌 <a href="">My Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
+  📌 <a href="pratikmaharana.site">My Portfolio</a>&nbsp;&nbsp;&nbsp;<br />
   📧 <a href="mailto:maharanapratik600@gmail.com">Send me an Email</a>&nbsp;&nbsp;&nbsp;<br />
 
   
